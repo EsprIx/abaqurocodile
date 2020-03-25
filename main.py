@@ -249,7 +249,7 @@ quit_button_frame = Frame(scrollable_frame, bg = "#808080")
 label_title = Label(title_frame, text = "Abaque numérique", font = ("Calibri", 30), fg = "white", bg = "#808080")
 label_title.pack()
 
-label_subtitle = Label(title_frame, text = "Réalisé par Tom Jurien, Tom Pinabel, Meriadec Labbé, Paul Chaulet", font = ("Calibri", 15), fg = "white", bg = "#808080")
+label_subtitle = Label(title_frame, text = "Réalisé par Meriadec Labbé, Tom Pinabel et Tom Jurien", font = ("Calibri", 15), fg = "white", bg = "#808080")
 label_subtitle.pack()
 
 # Questions
